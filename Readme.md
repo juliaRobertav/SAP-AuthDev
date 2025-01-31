@@ -1,5 +1,3 @@
-```markdown
-
 # SAP Authorization & Security Development
 
 Este repositório foi criado para documentar e compartilhar conhecimentos relacionados ao desenvolvimento e à configuração de autorizações e segurança no SAP. Ele aborda conceitos fundamentais, processos-chave e práticas recomendadas para garantir a segurança e o controle de acesso nos sistemas SAP.
@@ -51,7 +49,7 @@ O propósito deste repositório é fornecer:
 ## 🛠️ Ferramentas Relacionadas
 
 - **Transações-Chave**:
-  - `SU01`: Gerenciamento de usuários.
+  - `SU01/SU01D`: Gerenciamento de usuários.
   - `PFCG`: Criação e manutenção de papéis.
   - `SUIM`: Relatórios de autorizações.
   - `SM20`: Logs de auditoria de segurança.
@@ -80,4 +78,3 @@ O propósito deste repositório é fornecer:
 
 Se você deseja contribuir com este repositório, sinta-se à vontade para abrir um *pull request* ou relatar problemas na aba *Issues*. Sugestões de melhorias são sempre bem-vindas!
 
-```
