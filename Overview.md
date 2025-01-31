@@ -1,4 +1,3 @@
-```markdown
 # Conceitos Gerais
 
 ## Roles/Perfis
@@ -181,6 +180,4 @@ Também há algumas outras dicas de códigos:
 
 > su01: informações sobre cada usuário
 
-Exemplo:
 
-```
